@@ -1,0 +1,15 @@
+D:\Folder D\C#\Projects\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\Folder D\C#\Projects\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+D:\Folder D\C#\Projects\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\Folder D\C#\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+D:\Folder D\C#\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\MainWindow.g.cs
+D:\Folder D\C#\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+D:\Folder D\C#\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+D:\Folder D\C#\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+D:\Folder D\C#\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\MainWindow.baml
+D:\Folder D\C#\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+D:\Folder D\C#\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\Folder D\C#\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+D:\Folder D\C#\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Folder D\C#\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+D:\Folder D\C#\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
